@@ -5,7 +5,7 @@ api.githubcopilot.com
 # enterprise.githubcopilot.com
 copilot-proxy.githubusercontent.com
 origin-tracker.githubusercontent.com
-copilot-telemetry.githubusercontent.com
+# copilot-telemetry.githubusercontent.com
 # default.exp-tas.com
 # api.github.com
 # github.com
