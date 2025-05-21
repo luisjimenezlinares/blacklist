@@ -1,18 +1,18 @@
 githubcopilot.com
 api.githubcopilot.com
-#individual.githubcopilot.com
-#business.githubcopilot.com
-#enterprise.githubcopilot.com
+# individual.githubcopilot.com
+# business.githubcopilot.com
+# enterprise.githubcopilot.com
 copilot-proxy.githubusercontent.com
 origin-tracker.githubusercontent.com
 copilot-telemetry.githubusercontent.com
-#default.exp-tas.com
-#api.github.com
-#github.com
-#githubusercontent.com
-#login.github.com
-#vscode-auth.github.com
-#vscode.dev
+# default.exp-tas.com
+# api.github.com
+# github.com
+# githubusercontent.com
+# login.github.com
+# vscode-auth.github.com
+# vscode.dev
 openai.com
 chat.openai.com
 platform.openai.com
@@ -55,25 +55,25 @@ lyria.googleapis.com
 veo.googleapis.com
 gemma.googleapis.com
 notebooklm.google.com
-#workspace.google.com
-#docs.google.com
-#sheets.google.com
-#slides.google.com
-#meet.google.com
-#chat.google.com
-#vids.google.com
-#gmail.google.com
-#drive.google.com
-#search.google.com
-#chrome.google.com
-#chromewebstore.google.com
-#colab.research.google.com
-#colab.google
-#tensorflow.org
-#tfhub.dev
-#keras.io
-#cloudtranslation.googleapis.com
-#speech.googleapis.com
-#language.googleapis.com
-#vision.googleapis.com
-#dialogflow.googleapis.com
+# workspace.google.com
+# docs.google.com
+# sheets.google.com
+# slides.google.com
+# meet.google.com
+# chat.google.com
+# vids.google.com
+# gmail.google.com
+# drive.google.com
+# search.google.com
+# chrome.google.com
+# chromewebstore.google.com
+# colab.research.google.com
+# colab.google
+# tensorflow.org
+# tfhub.dev
+# keras.io
+# cloudtranslation.googleapis.com
+# speech.googleapis.com
+# language.googleapis.com
+# vision.googleapis.com
+# dialogflow.googleapis.com
