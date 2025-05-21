@@ -18,7 +18,7 @@ chat.openai.com
 platform.openai.com
 api.openai.com
 auth0.openai.com
-cdn.openai.com
+# cdn.openai.com
 labs.openai.com
 status.openai.com
 help.openai.com
