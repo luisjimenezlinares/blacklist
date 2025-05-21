@@ -22,7 +22,7 @@ auth0.openai.com
 labs.openai.com
 status.openai.com
 help.openai.com
-openaiapi-site.azureedge.net
+# openaiapi-site.azureedge.net
 oaistatic.com
 chatgpt.com
 auth0.com
