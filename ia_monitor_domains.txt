@@ -1,8 +1,8 @@
 githubcopilot.com
 api.githubcopilot.com
-individual.githubcopilot.com
-business.githubcopilot.com
-enterprise.githubcopilot.com
+#individual.githubcopilot.com
+#business.githubcopilot.com
+#enterprise.githubcopilot.com
 copilot-proxy.githubusercontent.com
 origin-tracker.githubusercontent.com
 copilot-telemetry.githubusercontent.com
